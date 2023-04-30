@@ -1,5 +1,3 @@
-﻿
-
 1::
 Send, q
 return
@@ -9,4 +7,7 @@ Send, ^v
 return
 3::
 Click, Right
+return
+4::
+Send, !hr
 return
